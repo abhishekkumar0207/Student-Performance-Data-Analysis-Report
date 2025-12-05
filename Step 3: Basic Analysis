@@ -1,0 +1,6 @@
+# Summary statistics
+print(df.describe())
+
+# Correlation matrix
+corr = df.corr()
+print(corr)
