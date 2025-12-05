@@ -1,0 +1,8 @@
+We will simulate a dataset with the following columns:
+Student_ID – Unique ID
+Name – Student Name
+Math_Score – Score in Math (0-100)
+English_Score – Score in English (0-100)
+Science_Score – Score in Science (0-100)
+Hours_Studied – Weekly study hours
+Attendance – Attendance percentage
