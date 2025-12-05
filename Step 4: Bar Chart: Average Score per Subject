@@ -1,0 +1,5 @@
+avg_scores = df[["Math_Score", "English_Score", "Science_Score"]].mean()
+avg_scores.plot(kind="bar", color=["skyblue", "lightgreen", "salmon"])
+plt.title("Average Score per Subject")
+plt.ylabel("Score")
+plt.show()
